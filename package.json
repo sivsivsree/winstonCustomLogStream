@@ -1,0 +1,14 @@
+{
+  "name": "customwinstontransport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transport.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "author": "Siv S",
+  "license": "ISC",
+  "dependencies": {
+    "winston-transport": "^4.2.0"
+  }
+}
